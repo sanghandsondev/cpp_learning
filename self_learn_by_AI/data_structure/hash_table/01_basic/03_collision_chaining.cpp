@@ -164,8 +164,7 @@ private:
         int value;
     };
 
-    // Mỗi ô là một std::list<Entry>
-    list<Entry> table[TABLE_SIZE];
+    list<Entry> table[TABLE_SIZE];      // Mỗi ô là một std::list<Entry>
 
 public:
     int hashFunction(const string& key) {

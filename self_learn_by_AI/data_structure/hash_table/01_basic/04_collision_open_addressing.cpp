@@ -8,7 +8,7 @@
  * - Khi collision → tìm ô trống khác trong CHÍNH bảng đó
  * - 3 cách tìm ô trống: Linear, Quadratic, Double Hashing
  * 
- * SO SÁNH VỚI CHAINING:
+ * SO SÁNH VỚI CHAINING
  * - Chaining:        Mỗi ô chứa linked list → dùng thêm bộ nhớ ngoài
  * - Open Addressing: Tất cả dữ liệu nằm trong bảng → không cần bộ nhớ ngoài
  */
